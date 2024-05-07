@@ -15,8 +15,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 
 ## Program:
 Program to implement the SVM For Spam Mail Detection..
-Developed by: GANESH S
-RegisterNumber: 212222240042
+Developed by: KARTHICK K
+RegisterNumber: 2122222040070
 
 ```python
 import numpy as np
@@ -45,13 +45,15 @@ print(classification_report(y_test, predictions))
 ```
 ## Output:
 ## Head:
-![image](https://github.com/ganeshshanmugavel27/Implementation-of-SVM-For-Spam-Mail-Detection/assets/122046208/747c05d2-ffa0-4d69-9309-e562468d136d)
+![Screenshot 2024-05-07 142950](https://github.com/karthick960/Implementation-of-SVM-For-Spam-Mail-Detection/assets/121215938/51e273c2-36a4-4bbb-95f4-54599a78569d)
+
 
 ## Kernel Model:
-![image](https://github.com/ganeshshanmugavel27/Implementation-of-SVM-For-Spam-Mail-Detection/assets/122046208/21a53fe4-5c11-4cf4-ac18-5fdc150050b8)
+![Screenshot 2024-05-07 143017](https://github.com/karthick960/Implementation-of-SVM-For-Spam-Mail-Detection/assets/121215938/0923cdc7-990b-4cf1-8594-bc93b160098f)
 
 ## Accuracy and Classification report:
-![image](https://github.com/ganeshshanmugavel27/Implementation-of-SVM-For-Spam-Mail-Detection/assets/122046208/04e74b54-02a5-4dcf-b8b9-67dbc78c0fa1)
+![Screenshot 2024-05-07 143000](https://github.com/karthick960/Implementation-of-SVM-For-Spam-Mail-Detection/assets/121215938/d5d4bca9-8668-44e7-931a-9b482dcd1bf8)
+
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
